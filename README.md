@@ -1,4 +1,4 @@
-# Mathematics Dataset (by DeepMind) translated into Russian
+# Mathematics Dataset translated into Russian
 
 This is a Russian version of Mathematics Dataset. 
 Original dataset - https://github.com/deepmind/mathematics_dataset/
