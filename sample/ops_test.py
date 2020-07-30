@@ -6,7 +6,7 @@ from __future__ import print_function
 
 # Dependency imports
 from absl.testing import absltest
-from mathematics_dataset.sample import ops
+from sample import ops
 from six.moves import range
 import sympy
 

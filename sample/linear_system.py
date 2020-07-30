@@ -7,9 +7,9 @@ from __future__ import print_function
 import random
 
 # Dependency imports
-from mathematics_dataset.sample import number
-from mathematics_dataset.sample import ops
-from mathematics_dataset.sample import polynomials
+from sample import number
+from sample import ops
+from sample import polynomials
 import numpy as np
 from six.moves import range
 import sympy

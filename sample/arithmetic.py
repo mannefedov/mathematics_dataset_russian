@@ -9,9 +9,9 @@ import math
 import random
 
 # Dependency imports
-from mathematics_dataset.sample import number
-from mathematics_dataset.sample import ops
-from mathematics_dataset.util import combinatorics
+from sample import number
+from sample import ops
+from util import combinatorics
 import numpy as np
 import six
 from six.moves import zip

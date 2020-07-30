@@ -8,7 +8,7 @@ import math
 import random
 
 # Dependency imports
-from mathematics_dataset.util import display
+from util import display
 import numpy as np
 import six
 import sympy

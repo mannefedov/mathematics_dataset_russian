@@ -8,7 +8,7 @@ import random
 
 # Dependency imports
 from absl.testing import parameterized
-from mathematics_dataset.sample import polynomials
+from sample import polynomials
 import numpy as np
 from six.moves import range
 import sympy

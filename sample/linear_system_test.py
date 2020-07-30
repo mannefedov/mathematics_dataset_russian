@@ -9,7 +9,7 @@ import random
 # Dependency imports
 from absl.testing import absltest
 from absl.testing import parameterized
-from mathematics_dataset.sample import linear_system
+from sample import linear_system
 from six.moves import range
 import sympy
 

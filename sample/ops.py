@@ -19,8 +19,8 @@ import abc
 
 # Dependency imports
 from absl import logging
-from mathematics_dataset.sample import number
-from mathematics_dataset.util import display
+from sample import number
+from util import display
 import numpy as np
 import six
 from six.moves import zip
