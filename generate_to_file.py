@@ -26,7 +26,7 @@ import os
 from absl import app
 from absl import flags
 from absl import logging
-from mathematics_dataset import generate
+import generate
 import six
 from six.moves import range
 

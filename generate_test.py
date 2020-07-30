@@ -7,7 +7,7 @@ from __future__ import print_function
 # Dependency imports
 from absl.testing import absltest
 from absl.testing import parameterized
-from mathematics_dataset import generate
+import generate
 import six
 from six.moves import range
 

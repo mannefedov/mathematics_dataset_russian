@@ -11,8 +11,8 @@ import textwrap
 from absl import app
 from absl import flags
 from absl import logging
-from mathematics_dataset import generate_settings
-from mathematics_dataset.modules import modules
+import generate_settings
+from modules import modules
 import six
 from six.moves import range
 
