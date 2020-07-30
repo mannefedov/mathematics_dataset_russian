@@ -8,7 +8,7 @@ import math
 
 # Dependency imports
 from absl.testing import absltest
-from mathematics_dataset.util import combinatorics
+from util import combinatorics
 
 
 class CombinatoricsTest(absltest.TestCase):

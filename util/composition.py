@@ -9,11 +9,11 @@ import random
 import string
 
 # Dependency imports
-from mathematics_dataset.sample import number
-from mathematics_dataset.sample import ops
-from mathematics_dataset.sample import polynomials
-from mathematics_dataset.util import combinatorics
-from mathematics_dataset.util import display
+from sample import number
+from sample import ops
+from sample import polynomials
+from util import combinatorics
+from util import display
 import numpy as np
 import six
 from six.moves import range

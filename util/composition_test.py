@@ -6,7 +6,7 @@ from __future__ import print_function
 
 # Dependency imports
 from absl.testing import absltest
-from mathematics_dataset.util import composition
+from util import composition
 import sympy
 
 
