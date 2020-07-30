@@ -9,12 +9,12 @@ import math
 import random
 
 # Dependency imports
-from mathematics_dataset import example
-from mathematics_dataset.sample import arithmetic
-from mathematics_dataset.sample import number
-from mathematics_dataset.sample import ops
-from mathematics_dataset.util import composition
-from mathematics_dataset.util import display
+import example
+from sample import arithmetic
+from sample import number
+from sample import ops
+from util import composition
+from util import display
 import sympy
 
 

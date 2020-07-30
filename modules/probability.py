@@ -27,10 +27,10 @@ import re
 # Dependency imports
 from mathematics_dataset import example
 from mathematics_dataset.modules import train_test_split
-from mathematics_dataset.util import combinatorics
-from mathematics_dataset.util import composition
-from mathematics_dataset.util import display
-from mathematics_dataset.util import probability
+from util import combinatorics
+from util import composition
+from util import display
+from util import probability
 import numpy as np
 from six.moves import range
 from six.moves import zip

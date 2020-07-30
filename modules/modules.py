@@ -4,14 +4,14 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-from mathematics_dataset.modules import algebra
-from mathematics_dataset.modules import arithmetic
-from mathematics_dataset.modules import calculus
-from mathematics_dataset.modules import comparison
-from mathematics_dataset.modules import measurement
-from mathematics_dataset.modules import numbers
-from mathematics_dataset.modules import polynomials
-from mathematics_dataset.modules import probability
+from modules import algebra
+from modules import arithmetic
+from modules import calculus
+from modules import comparison
+from modules import measurement
+from modules import numbers
+from modules import polynomials
+from modules import probability
 import six
 
 

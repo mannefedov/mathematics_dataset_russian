@@ -9,8 +9,8 @@ import random
 
 # Dependency imports
 from absl.testing import absltest
-from mathematics_dataset.modules import algebra
-from mathematics_dataset.sample import polynomials
+from modules import algebra
+from sample import polynomials
 from six.moves import range
 import sympy
 

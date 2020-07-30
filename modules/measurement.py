@@ -9,11 +9,11 @@ import functools
 import random
 
 # Dependency imports
-from mathematics_dataset import example
-from mathematics_dataset.modules import train_test_split
-from mathematics_dataset.sample import number
-from mathematics_dataset.util import composition
-from mathematics_dataset.util import display
+import example
+from modules import train_test_split
+from sample import number
+from util import composition
+from util import display
 import six
 import sympy
 

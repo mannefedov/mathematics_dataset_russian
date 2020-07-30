@@ -9,10 +9,10 @@ import math
 import random
 
 # Dependency imports
-from mathematics_dataset import example
-from mathematics_dataset.sample import polynomials
-from mathematics_dataset.util import composition
-from mathematics_dataset.util import display
+import example
+from sample import polynomials
+from util import composition
+from util import display
 import numpy as np
 from six.moves import range
 import sympy

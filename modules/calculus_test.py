@@ -5,7 +5,7 @@ from __future__ import division
 from __future__ import print_function
 
 # Dependency imports
-from mathematics_dataset.modules import calculus
+from modules import calculus
 import tensorflow as tf
 
 
