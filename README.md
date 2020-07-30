@@ -45,11 +45,11 @@ Pre-generated dataset of 11 mln question can be downloaded from here - https://d
 This dataset can be used the same way as the original. 
 
 ```shell
-python -m mathematics_dataset.generate --filter=linear_1d
+python mathematics_dataset_russian/generate.py --filter=linear_1d
 ```
 
 ```shell
-python -m mathematics_dataset.generate_to_file --output_dir=dataset/numbers --filter=numbers
+python mathematics_dataset_russian/generate_to_file.py --output_dir=dataset/numbers --filter=numbers
 ```
 
 ### Install
