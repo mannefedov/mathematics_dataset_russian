@@ -61,4 +61,16 @@ repository (no pip installation so far):
 $ git clone https://github.com/mannefedov/mathematics_dataset_russian
 ```
 
+## Cite
+
+```
+@inproceedings{nefedov2020dataset,
+  title={Dataset for Evaluation of Mathematical Reasoning Abilities in Russian},
+  author={Nefedov, Mikhail},
+  booktitle={Conference on Artificial Intelligence and Natural Language},
+  pages={135--144},
+  year={2020},
+  organization={Springer}
+}
+```
 
